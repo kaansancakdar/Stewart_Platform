@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f33ada0-0e43-4a49-9684-5f73607619c3": {
+      "ProjectGuid": "9f33ada0-0e43-4a49-9684-5f73607619c3",
+      "DisplayName": "syncwrite",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

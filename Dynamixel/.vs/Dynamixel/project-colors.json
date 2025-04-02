@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d46ec086-710a-44e7-99d2-7e69182be93e": {
+      "ProjectGuid": "d46ec086-710a-44e7-99d2-7e69182be93e",
+      "DisplayName": "Dynamixel",
+      "ColorIndex": 0
+    },
+    "dcc81f43-e1f8-4648-a429-3027d97d8f7b": {
+      "ProjectGuid": "dcc81f43-e1f8-4648-a429-3027d97d8f7b",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

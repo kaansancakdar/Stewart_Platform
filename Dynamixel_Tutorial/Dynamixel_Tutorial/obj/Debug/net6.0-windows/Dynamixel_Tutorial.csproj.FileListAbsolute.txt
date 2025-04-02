@@ -1,0 +1,17 @@
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.csproj.AssemblyReference.cache
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.Form1.resources
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.csproj.GenerateResource.cache
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.AssemblyInfoInputs.cache
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.AssemblyInfo.cs
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.csproj.CoreCompileInputs.cache
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\bin\Debug\net6.0-windows\Dynamixel_Tutorial.exe
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\bin\Debug\net6.0-windows\Dynamixel_Tutorial.deps.json
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\bin\Debug\net6.0-windows\Dynamixel_Tutorial.runtimeconfig.json
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\bin\Debug\net6.0-windows\Dynamixel_Tutorial.dll
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\bin\Debug\net6.0-windows\ref\Dynamixel_Tutorial.dll
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\bin\Debug\net6.0-windows\Dynamixel_Tutorial.pdb
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.dll
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\ref\Dynamixel_Tutorial.dll
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.pdb
+D:\Stewart Platform\Dynamixel_Tutorial\Dynamixel_Tutorial\obj\Debug\net6.0-windows\Dynamixel_Tutorial.genruntimeconfig.cache

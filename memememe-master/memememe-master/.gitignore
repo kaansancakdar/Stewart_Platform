@@ -1,0 +1,28 @@
+.DS*
+Android/**/bin
+Android/**/gen
+Android/**/proguard.cfg
+Android/**/obj
+*.pyc
+Processing/**/*cropped
+Processing/**/positive01*
+Python/**/*.vec
+Python/**/data/*.txt
+Python/**/data/*samples
+Python/**/data/**/neg*jpg
+Python/**/data/**/stage*xml
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ
+*.iml
+Android/**/idea/workspace.xml
+Android/**/idea/tasks.xml
+Android/**/idea/gradle.xml
+Android/**/idea/dictionaries
+Android/**/idea/libraries
+Android/**/.idea/caches

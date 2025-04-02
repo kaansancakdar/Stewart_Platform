@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "183b2a8b-2d01-42b4-80c9-f86273a0bc24": {
+      "ProjectGuid": "183b2a8b-2d01-42b4-80c9-f86273a0bc24",
+      "DisplayName": "Dynamixel_Tutorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

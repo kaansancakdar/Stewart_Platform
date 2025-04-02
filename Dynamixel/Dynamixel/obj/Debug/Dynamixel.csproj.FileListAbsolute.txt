@@ -1,0 +1,11 @@
+D:\Stewart Platform\Dynamixel\Dynamixel\obj\Debug\Dynamixel.csproj.AssemblyReference.cache
+D:\Stewart Platform\Dynamixel\Dynamixel\obj\Debug\Dynamixel.csproj.SuggestedBindingRedirects.cache
+D:\Stewart Platform\Dynamixel\Dynamixel\obj\Debug\Dynamixel.Properties.Resources.resources
+D:\Stewart Platform\Dynamixel\Dynamixel\obj\Debug\Dynamixel.csproj.GenerateResource.cache
+D:\Stewart Platform\Dynamixel\Dynamixel\obj\Debug\Dynamixel.csproj.CoreCompileInputs.cache
+D:\Stewart Platform\Dynamixel\Dynamixel\bin\Debug\Dynamixel.exe.config
+D:\Stewart Platform\Dynamixel\Dynamixel\bin\Debug\Dynamixel.exe
+D:\Stewart Platform\Dynamixel\Dynamixel\bin\Debug\Dynamixel.pdb
+D:\Stewart Platform\Dynamixel\Dynamixel\obj\Debug\Dynamixel.exe
+D:\Stewart Platform\Dynamixel\Dynamixel\obj\Debug\Dynamixel.pdb
+D:\Stewart Platform\Dynamixel\Dynamixel\obj\Debug\Dynamixel.Form1.resources

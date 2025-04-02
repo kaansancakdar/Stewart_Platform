@@ -1,0 +1,15 @@
+D:\Stewart Platform\syncwrite\syncwrite\bin\Debug\net6.0\syncwrite.exe
+D:\Stewart Platform\syncwrite\syncwrite\bin\Debug\net6.0\syncwrite.deps.json
+D:\Stewart Platform\syncwrite\syncwrite\bin\Debug\net6.0\syncwrite.runtimeconfig.json
+D:\Stewart Platform\syncwrite\syncwrite\bin\Debug\net6.0\syncwrite.dll
+D:\Stewart Platform\syncwrite\syncwrite\bin\Debug\net6.0\ref\syncwrite.dll
+D:\Stewart Platform\syncwrite\syncwrite\bin\Debug\net6.0\syncwrite.pdb
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\syncwrite.csproj.AssemblyReference.cache
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\syncwrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\syncwrite.AssemblyInfoInputs.cache
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\syncwrite.AssemblyInfo.cs
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\syncwrite.csproj.CoreCompileInputs.cache
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\syncwrite.dll
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\ref\syncwrite.dll
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\syncwrite.pdb
+D:\Stewart Platform\syncwrite\syncwrite\obj\Debug\net6.0\syncwrite.genruntimeconfig.cache
