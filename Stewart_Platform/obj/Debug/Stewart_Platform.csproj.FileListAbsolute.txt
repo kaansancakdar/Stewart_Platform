@@ -1,0 +1,11 @@
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\bin\Debug\Stewart_Platform.exe.config
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\bin\Debug\Stewart_Platform.exe
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\bin\Debug\Stewart_Platform.pdb
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\obj\Debug\Stewart_Platform.csproj.AssemblyReference.cache
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\obj\Debug\Stewart_Platform.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\obj\Debug\Stewart_Platform.Form1.resources
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\obj\Debug\Stewart_Platform.Properties.Resources.resources
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\obj\Debug\Stewart_Platform.csproj.GenerateResource.cache
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\obj\Debug\Stewart_Platform.csproj.CoreCompileInputs.cache
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\obj\Debug\Stewart_Platform.exe
+C:\Users\kaan.sancakdar\Desktop\Stewart Platform\SOFTWARE\Stewart_Platform\obj\Debug\Stewart_Platform.pdb
